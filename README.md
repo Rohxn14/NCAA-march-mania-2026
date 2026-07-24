@@ -22,12 +22,4 @@ Predicts win probabilities for all possible men's and women's NCAA tournament ma
 - **132,133** matchup predictions generated
 - Submitted to Kaggle Stage 2 — scores update as tournament games are played
 
-## Files
-- `solution.ipynb` — full pipeline (features, training, predictions)
-- `elo.ipynb` — Elo rating experiments
 
-## How to Run
-1. Download the competition data from Kaggle
-2. Place all CSV files in the same folder
-3. Run `solution.ipynb` top to bottom
-4. 
